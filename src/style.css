@@ -1,1 +1,13 @@
 /* styles go here */
+.label {
+  margin-top: 10px;
+  display: block;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+.radio {
+  display: inline;
+}
